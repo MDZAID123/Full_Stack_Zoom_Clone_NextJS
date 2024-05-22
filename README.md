@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/MDZAID123/Full_Stack_Zoom_Clone_NextJS/assets/88980148/3287ca63-d2a2-493e-a05f-60d1f76de00b)
+
+
 
 Live website at -https://full-stack-zoom-clone-next-js.vercel.app/
 
